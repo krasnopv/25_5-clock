@@ -3,7 +3,7 @@ name: React app deployment
 on:
   push:
     branches:
-      - master
+      - main
 jobs:
   build:
     runs-on: ubuntu-latest
