@@ -11,7 +11,7 @@ jobs:
     steps:
     - id: build-publish
       uses: bitovi/github-actions-react-to-ghp@v1.1.1
-        path: dist
+        path: public
 
 # # Controls when the action will run. 
 # on:
